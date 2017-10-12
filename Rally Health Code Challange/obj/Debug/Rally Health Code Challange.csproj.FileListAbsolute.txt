@@ -1,0 +1,7 @@
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\bin\Debug\Rally Health Code Challange.exe.config
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\bin\Debug\Rally Health Code Challange.exe
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\bin\Debug\Rally Health Code Challange.pdb
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\obj\Debug\Rally Health Code Challange.csprojResolveAssemblyReference.cache
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\obj\Debug\Rally Health Code Challange.csproj.CoreCompileInputs.cache
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\obj\Debug\Rally Health Code Challange.exe
+c:\users\jaklans\documents\visual studio 2017\Projects\Rally Health Code Challange\Rally Health Code Challange\obj\Debug\Rally Health Code Challange.pdb

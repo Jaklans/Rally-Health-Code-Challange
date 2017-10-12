@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rally Health Code Challange", "Rally Health Code Challange\Rally Health Code Challange.csproj", "{0626D93D-8A13-4D46-A18E-13ED4FB00A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0626D93D-8A13-4D46-A18E-13ED4FB00A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0626D93D-8A13-4D46-A18E-13ED4FB00A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0626D93D-8A13-4D46-A18E-13ED4FB00A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0626D93D-8A13-4D46-A18E-13ED4FB00A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA2A56F-5F6F-4EEF-AF0F-103335FA1E1D}
+	EndGlobalSection
+EndGlobal
